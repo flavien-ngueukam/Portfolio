@@ -7,8 +7,8 @@ This repository showcases my diverse skills and experience in software developme
 **What You'll Find Here:**
 
 * **Featured Projects:** A curated selection of my most impactful and impressive projects.
-* **Skills & Technologies:** An overview of my technical expertise and the tools I utilize.
-* **Experience:** My professional journey and a summary of my accomplishments.
+* **Skills & Technologies:** HTML/CSS, C/C++, JAVASCRIPT, PHP, PYTHON, GOLANG, JAVA.
+* **Experience:** 2 years professional journey.
 * **Contact:** +237680845954 / +237699792952
 * **Email address:** briatorngueukam@gmail.com
 * **Whatsapp:** +237680845954
