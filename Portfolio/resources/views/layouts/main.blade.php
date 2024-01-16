@@ -33,7 +33,7 @@
           <div class="skill">
             <h4>Python</h4>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" data-transitiongoal="80"></div><!-- /.progress-bar -->
+              <div class="progress-bar" role="progressbar" data-transitiongoal="55"></div><!-- /.progress-bar -->
             </div><!-- /.progress -->
           </div><!-- /.skill -->
         </div>
@@ -41,13 +41,13 @@
           <div class="skill">
             <h4>Javascript</h4>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" data-transitiongoal="75"></div><!-- /.progress-bar -->
+              <div class="progress-bar" role="progressbar" data-transitiongoal="50"></div><!-- /.progress-bar -->
             </div><!-- /.progress -->
           </div><!-- /.skill -->
           <div class="skill">
             <h4>Golang</h4>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" data-transitiongoal="66"></div><!-- /.progress-bar -->
+              <div class="progress-bar" role="progressbar" data-transitiongoal="30"></div><!-- /.progress-bar -->
             </div><!-- /.progress -->
           </div><!-- /.skill -->
         </div>
@@ -55,13 +55,13 @@
           <div class="skill">
             <h4>Php</h4>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" data-transitiongoal="77"></div><!-- /.progress-bar -->
+              <div class="progress-bar" role="progressbar" data-transitiongoal="55"></div><!-- /.progress-bar -->
             </div><!-- /.progress -->
           </div><!-- /.skill -->
           <div class="skill">
             <h4>Java</h4>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" data-transitiongoal="45"></div><!-- /.progress-bar -->
+              <div class="progress-bar" role="progressbar" data-transitiongoal="40"></div><!-- /.progress-bar -->
             </div><!-- /.progress -->
           </div><!-- /.skill -->
         </div>
@@ -87,7 +87,7 @@
           <div class="service">
             <img src="assets/img/back-end.svg" alt="Back End Developer">
             <h4>Back-end</h4>
-            <p>Utilising php frameworks such as Laravel or creating bespoke code, I've written services supporting thousands of users, including REST APIs, e-learning applications and more.</p>
+            <p>Utilising php frameworks such as Laravel or creating bespoke code, I've written services supporting tenth of users, including REST APIs, e-learning applications and more.</p>
           </div><!-- /.service -->
         </div>
         <div class="col-sm-4">
@@ -132,7 +132,7 @@
           <div class="portfolio-item">
             <img src="assets/img/portfolio-3.jpg" class="img-res" alt="">
             <div class="portfolio-item-info">
-              <h4>Python game</h4>
+              <h4>Python game / Java Springboot web application </h4>
               <a href="#" data-toggle="modal" data-target="#portfolioItem3"><span class="glyphicon glyphicon-eye-open"></span></a>
               <a href="#"><span class="glyphicon glyphicon-link"></span></a>
             </div><!-- /.portfolio-item-info -->
@@ -180,7 +180,7 @@
           <h4>Years Experience</h4>
         </div>
         <div class="col-sm-4 col-xs-12">
-          <p class="counter start" data-to="8" data-speed="2000">0</p>
+          <p class="counter start" data-to="4" data-speed="2000">0</p>
           <h4>Projects Delivered</h4>
         </div>
         <div class="col-sm-4 col-xs-12">
