@@ -42,7 +42,7 @@
                 </div>
 
                 <div class="col-md-6 text-right">
-                    <!-- <img src="assets/img/alex-vidal.png" alt="alex-vidal"> -->
+                    <!-- <img src="assets/img/admin01.JPG" alt="admin-01"> -->
                 </div>
 
             </div>
