@@ -11,7 +11,7 @@ This repository showcases my diverse skills and experience in software developme
 * **Experience:** 2 years professional internship journey.
 * **Contact:** +237680845954 / +237699792952
 * **Email address:** briatorngueukam@gmail.com
-* **Whatsapp:** +237680845954
+* **Whatsapp:** +237699792952
 
 **Navigation:**
 
